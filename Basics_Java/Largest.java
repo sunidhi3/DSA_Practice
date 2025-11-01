@@ -12,5 +12,6 @@ public class Largest {
        }else{
         System.out.println("C is Largest");
        }
+       sc.close();
     }
 }

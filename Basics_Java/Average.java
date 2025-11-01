@@ -8,5 +8,6 @@ public class Average {
         float time=sc.nextFloat();
         float si=(principal*rate*time)/100;
         System.out.println("simple interest : "+si);
+        sc.close();
     }
 }

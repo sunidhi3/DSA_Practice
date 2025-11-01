@@ -6,5 +6,6 @@ public class ProductOfTwo {
         int a=sc.nextInt();
         int b=sc.nextInt();
         System.out.println("product of two numbers"+":"+(a*b));
+        sc.close();
     }
 }

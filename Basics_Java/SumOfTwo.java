@@ -5,6 +5,6 @@ public class SumOfTwo {
         int a=sc.nextInt();
         int b=sc.nextInt();
         System.out.println("Sum of two number"+(a+b));
-
+        sc.close();
     }
 }
